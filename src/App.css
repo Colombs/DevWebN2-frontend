@@ -8,7 +8,7 @@
 
 body {
   background-color: #f0f4f8;
-  background-image: url(C:\Users\PICHAU\Desktop\2023009833\Projeto\front\DevWebN2-frontend\public\imagens\fundo.PNG);
+  background-image: url('https://i.imgur.com/KNYZteJ.png');
   color: #333;
   font-size: 16px;
   display: flex;
